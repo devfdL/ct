@@ -101,6 +101,7 @@
         left: 0;
         padding-top: 100px;
         display: none;
+        text-align: center;
     }
 
     .popup a{
@@ -498,14 +499,22 @@
       }
       
       ul.rb li .timestamp {
-        color: #df2b49;
+        color: white;
+        background-color: #4c1699;
+        padding: 10px;
+        border-radius: 10px;
         position: relative;
         width: 100px;
         font-size: 25px;
       }
       
       .item-title {
-        color: black;
+        color: white;
+        background-color: black;
+        padding: 10px;
+        border-radius: 10px;
+        position: relative;
+        top: 20px
       }
       
       .container-3 {

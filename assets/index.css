@@ -11,7 +11,7 @@ body{
         width: 80vw;
         position: relative;
         left: 15vw;
-        top: 600px;
+        top: 950px;
         z-index: 99999;
     }
 
@@ -331,7 +331,7 @@ body{
         width: 90vw;
         position: relative;
         left: 4vw;
-        top: 550px;
+        top: 950px;
         z-index: 99999;
         color: black;
         text-align: center;
@@ -363,7 +363,7 @@ body{
     
     .htb{
         position: relative;
-        top: 700px;
+        top: 900px;
         height: 600px;
         width: 100vw;
         left: -10px;
@@ -395,7 +395,7 @@ body{
 
     .footer{
         position: relative;
-        top: 700px;
+        top: 800px;
         height: 400px;
         width: 100vw;
         left: -10px;
@@ -436,7 +436,7 @@ body{
         position: relative;
         width: 80vw;
         left: 9vw;
-        top: 700px;
+        top: 950px;
         color: black;
         z-index: 999;
       }
@@ -488,14 +488,22 @@ body{
       }
       
       ul.rb li .timestamp {
-        color: #df2b49;
+        color: white;
+        background-color: #4c1699;
+        padding: 10px;
+        border-radius: 10px;
         position: relative;
         width: 100px;
-        font-size: 12px;
+        font-size: 20px;
       }
       
       .item-title {
-        color: black;
+        color: white;
+        background-color: black;
+        padding: 10px;
+        border-radius: 10px;
+        position: relative;
+        top: 20px
       }
       
       .container-3 {
